@@ -200,11 +200,11 @@ cosθ2 = (x² + y² − L1² − L2²) / (2 L1 L2)
 
 **IK — Reach a single random target (`sim_ik_reach_dynamic_target.py`)**
 
-![IK Single Target](assets/sim_ik_dynamic_target.gif)
+![IK Single Target](assets/sim_ik_reach_dynamic_target.gif)
 
 **IK — Continuous dynamic target tracking (`sim_ik_reach_dynamic_target_loop.py`)**
 
-![IK Dynamic Target Loop](assets/sim_ik_dynamic_target_loop.gif)
+![IK Dynamic Target Loop](assets/sim_ik_reach_dynamic_target_loop.gif)
 
 ---
 
