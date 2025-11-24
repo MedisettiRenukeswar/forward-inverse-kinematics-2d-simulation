@@ -194,11 +194,14 @@ cosθ2 = (x² + y² − L1² − L2²) / (2 L1 L2)
 
 ## 🎥 Simulation Preview GIFs
 
-| Simulation | Preview |
-|------------|---------|
-| Forward Kinematics (`sim_fk.py`) | ![](assets/sim_fk.gif) |
-| IK — Reach a single random target (`sim_ik_reach_dynamic_target.py`) | ![](assets/sim_ik_single_target.gif) |
-| IK — Continuous dynamic target tracking (`sim_ik_reach_dynamic_target_loop.py`) | ![](assets/sim_ik_dynamic_target.gif) |
+Forward Kinematics (`sim_fk.py`)
+![MedisettiRenukeswar/forward-inverse-kinematics-2d-simulation/](assets/sim_fk.gif)
+
+IK — Reach a single random target (`sim_ik_reach_dynamic_target.py`)
+![MedisettiRenukeswar/forward-inverse-kinematics-2d-simulation/](assets/sim_ik_dynamic_target.gif) |
+
+IK — Continuous dynamic target tracking (`sim_ik_reach_dynamic_target_loop.py`)
+![MedisettiRenukeswar/forward-inverse-kinematics-2d-simulation/](assets/sim_ik_dynamic_target_loop.gif) |
 
 ---
 
